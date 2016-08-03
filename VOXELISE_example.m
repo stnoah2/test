@@ -1,5 +1,5 @@
 clc; clear
-cd C:\Users\alexmoon\Dropbox\git\test\
+cd C:\Users\alexmoon\Dropbox1\git\test\
 %     S=[];
 %     [stlcoords] = READ_stl('testmodel.stl');
 %     xco = squeeze( stlcoords(:,1,:) )';
